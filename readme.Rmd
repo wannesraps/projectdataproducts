@@ -1,0 +1,7 @@
+---
+title: "make boxplot"
+author: ""
+date: "24 Aug 2014"
+output: html_document
+---
+Just a small application to learn a bit about shiny.
